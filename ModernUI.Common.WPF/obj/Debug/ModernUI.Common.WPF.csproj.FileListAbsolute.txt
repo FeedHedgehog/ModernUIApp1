@@ -1,0 +1,17 @@
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\ModernUI.Common.WPF.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\ModernUI.Common.WPF.pdb
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\Interop.BIM3DViewerLib.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\AxInterop.BIM3DViewerLib.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Interop.BIM3DViewerLib.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\AxInterop.BIM3DViewerLib.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csproj.ResolveComReference.cache
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Controls\B3DViewerRegion.g.cs
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF_MarkupCompile.cache
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF_MarkupCompile.lref
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Controls\B3DViewerRegion.baml
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.g.resources
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.Controls.WinForm.BaseB3DViewerForm.resources
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csproj.GenerateResource.Cache
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.pdb

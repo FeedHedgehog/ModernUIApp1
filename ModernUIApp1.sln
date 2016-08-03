@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernUIApp1", "ModernUIApp1\ModernUIApp1.csproj", "{9C2085B8-0FA6-4E76-929E-F886A4917D58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernUI.Common.Infrastructure", "ModernUI.Common.Infrastructure\ModernUI.Common.Infrastructure.csproj", "{354297AE-2DB5-42B0-8556-9CB1E833E46D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "通用", "通用", "{AE214868-14D6-49BA-B618-ACBE1E2396C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "启动", "启动", "{DD8D4E69-2276-4542-94DF-3D91F2E7AD60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernUI.Common.Utility", "ModernUI.Common.Utility\ModernUI.Common.Utility.csproj", "{B9272AEE-B538-465F-BB53-EF14EF14683F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernUI.Common.WPF", "ModernUI.Common.WPF\ModernUI.Common.WPF.csproj", "{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2085B8-0FA6-4E76-929E-F886A4917D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2085B8-0FA6-4E76-929E-F886A4917D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2085B8-0FA6-4E76-929E-F886A4917D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2085B8-0FA6-4E76-929E-F886A4917D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354297AE-2DB5-42B0-8556-9CB1E833E46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354297AE-2DB5-42B0-8556-9CB1E833E46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354297AE-2DB5-42B0-8556-9CB1E833E46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354297AE-2DB5-42B0-8556-9CB1E833E46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9272AEE-B538-465F-BB53-EF14EF14683F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9272AEE-B538-465F-BB53-EF14EF14683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9272AEE-B538-465F-BB53-EF14EF14683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9272AEE-B538-465F-BB53-EF14EF14683F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C2085B8-0FA6-4E76-929E-F886A4917D58} = {DD8D4E69-2276-4542-94DF-3D91F2E7AD60}
+		{354297AE-2DB5-42B0-8556-9CB1E833E46D} = {AE214868-14D6-49BA-B618-ACBE1E2396C6}
+		{B9272AEE-B538-465F-BB53-EF14EF14683F} = {AE214868-14D6-49BA-B618-ACBE1E2396C6}
+		{7DAEBD2D-A35C-4EDF-8E0D-CAA15463243A} = {AE214868-14D6-49BA-B618-ACBE1E2396C6}
+	EndGlobalSection
+EndGlobal

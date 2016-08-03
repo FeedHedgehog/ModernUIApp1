@@ -1,0 +1,4 @@
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\ModernUI.Common.Utility.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\ModernUI.Common.Utility.pdb
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.Utility\obj\Debug\ModernUI.Common.Utility.dll
+E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.Utility\obj\Debug\ModernUI.Common.Utility.pdb
