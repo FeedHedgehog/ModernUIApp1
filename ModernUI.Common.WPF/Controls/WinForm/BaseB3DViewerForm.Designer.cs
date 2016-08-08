@@ -28,31 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BaseB3DViewerForm));
+            this.axBIM3DViewer1 = new AxBIM3DViewerLib.AxBIM3DViewer();
+            ((System.ComponentModel.ISupportInitialize)(this.axBIM3DViewer1)).BeginInit();
             this.SuspendLayout();
             // 
-            // button1
+            // axBIM3DViewer1
             // 
-            this.button1.Location = new System.Drawing.Point(314, 128);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.axBIM3DViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.axBIM3DViewer1.Enabled = true;
+            this.axBIM3DViewer1.Location = new System.Drawing.Point(0, 0);
+            this.axBIM3DViewer1.Name = "axBIM3DViewer1";
+            this.axBIM3DViewer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axBIM3DViewer1.OcxState")));
+            this.axBIM3DViewer1.Size = new System.Drawing.Size(671, 411);
+            this.axBIM3DViewer1.TabIndex = 0;
             // 
             // BaseB3DViewerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.axBIM3DViewer1);
             this.Name = "BaseB3DViewerForm";
             this.Size = new System.Drawing.Size(671, 411);
+            ((System.ComponentModel.ISupportInitialize)(this.axBIM3DViewer1)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private AxBIM3DViewerLib.AxBIM3DViewer axBIM3DViewer1;
     }
 }

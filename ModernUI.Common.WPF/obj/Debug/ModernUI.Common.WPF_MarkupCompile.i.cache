@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\
 ModernUI.Common.WPF
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 1-1134108525
 
-5835652882
+5-1302669699
 18-2039851603
 Controls\B3DViewerRegion.xaml;
 
-False
+True
 
