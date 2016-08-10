@@ -19,7 +19,6 @@ D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\bi
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\ModernUI.Common.WPF.pdb
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\Interop.BIM3DViewerLib.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\bin\Debug\AxInterop.BIM3DViewerLib.dll
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Interop.BIM3DViewerLib.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\AxInterop.BIM3DViewerLib.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csproj.ResolveComReference.cache

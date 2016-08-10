@@ -1,4 +1,3 @@
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\FirstFloor.ModernUI\obj\x86\Debug\FirstFloor.ModernUI.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\FirstFloor.ModernUI\obj\x86\Debug\Assets\Button.baml
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\FirstFloor.ModernUI\obj\x86\Debug\Assets\CheckBox.baml
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\FirstFloor.ModernUI\obj\x86\Debug\Assets\ComboBox.baml
