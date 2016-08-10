@@ -31,9 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="FirstFloor.ModernUI">
-      <HintPath>..\packages\ModernUI.WPF.1.0.9\lib\net40\FirstFloor.ModernUI.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Windows.Shell, Version=3.5.41019.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\ModernUI.WPF.1.0.9\lib\net40\Microsoft.Windows.Shell.dll</HintPath>
     </Reference>
@@ -74,6 +71,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FirstFloor.ModernUI\FirstFloor.ModernUI.csproj">
+      <Project>{9a653a28-fe46-40e8-a14f-48b0e325165d}</Project>
+      <Name>FirstFloor.ModernUI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModernUI.Common.Infrastructure\ModernUI.Common.Infrastructure.csproj">
       <Project>{354297ae-2db5-42b0-8556-9cb1e833e46d}</Project>
       <Name>ModernUI.Common.Infrastructure</Name>

@@ -1,0 +1,5 @@
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Windows\bin\Debug\ModernUI.Windows.dll
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Windows\bin\Debug\ModernUI.Windows.pdb
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Windows\obj\Debug\ModernUI.Windows.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Windows\obj\Debug\ModernUI.Windows.dll
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Windows\obj\Debug\ModernUI.Windows.pdb
