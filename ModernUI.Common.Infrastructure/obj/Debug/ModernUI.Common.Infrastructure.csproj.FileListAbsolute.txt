@@ -6,4 +6,3 @@ D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Infras
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Infrastructure\bin\Debug\ModernUI.Common.Infrastructure.pdb
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Infrastructure\obj\Debug\ModernUI.Common.Infrastructure.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Infrastructure\obj\Debug\ModernUI.Common.Infrastructure.pdb
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Infrastructure\obj\Debug\ModernUI.Common.Infrastructure.csprojResolveAssemblyReference.cache

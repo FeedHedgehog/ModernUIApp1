@@ -56,6 +56,7 @@
     <Compile Include="Controls\WinForm\BaseB3DViewerForm.Designer.cs">
       <DependentUpon>BaseB3DViewerForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Delegate\DelegateClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

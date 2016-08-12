@@ -10,6 +10,6 @@
              d:DesignWidth="800"
              mc:Ignorable="d">
     <wfi:WindowsFormsHost>
-        <local:BaseB3DViewerForm />
+        <local:BaseB3DViewerForm Width="500" Height="400"/>
     </wfi:WindowsFormsHost>
 </UserControl>

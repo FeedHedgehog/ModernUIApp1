@@ -22,7 +22,7 @@ namespace ModernUIApp1
     public partial class MainWindow : ModernWindow
     {
         public MainWindow()
-        {
+        {            
             InitializeComponent();
         }
     }

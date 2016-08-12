@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AxBIM3DViewerLib;
+using ModernUI.Common.WPF.Delegate;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,16 @@ namespace ModernUI.Common.WPF.Controls
     /// </summary>
     public partial class B3DViewerRegion : UserControl
     {
+        private AxBIM3DViewer _bimViewer;
         public B3DViewerRegion()
         {
+            DelegateClass.BIM3DViewerLoadFileBeginEvent += DelegateClass_BIM3DViewerLoadFileBeginEvent;
             InitializeComponent();
+        }
+
+        private void DelegateClass_BIM3DViewerLoadFileBeginEvent(object viewer)
+        {
+            _bimViewer = viewer as AxBIM3DViewer;
         }
     }
 }

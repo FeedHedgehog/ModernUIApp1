@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1
         {
             base.OnLoad(e);
             
-            axBIM3DViewer1.LoadFileEnd += AxBIM3DViewer1_LoadFileEnd; ;
+            axBIM3DViewer1.LoadFileEnd += AxBIM3DViewer1_LoadFileEnd; 
         }
 
         private void AxBIM3DViewer1_LoadFileEnd(object sender, AxBIM3DViewerLib._DBIM3DViewerEvents_LoadFileEndEvent e)
@@ -30,8 +30,11 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            axBIM3DViewer1.OpenFile(@"‪D:\2016\package\projects\CodeRepository\EBIMWorks 0.5\Project1\temp\1\资料\房子.b3d");
-            axBIM3DViewer1.AppendFile(@"‪D:\2016\package\projects\CodeRepository\EBIMWorks 0.5\Project1\temp\1\资料\房子.b3d");
+            OpenFileDialog ofd=new OpenFileDialog();
+            if (ofd.ShowDialog()==DialogResult.OK)
+            {
+                axBIM3DViewer1.OpenFile(ofd.FileName);
+            }           
         }
     }
 }

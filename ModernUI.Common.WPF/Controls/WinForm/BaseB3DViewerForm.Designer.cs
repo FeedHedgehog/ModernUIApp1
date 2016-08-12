@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BaseB3DViewerForm));
             this.axBIM3DViewer1 = new AxBIM3DViewerLib.AxBIM3DViewer();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.axBIM3DViewer1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -43,10 +44,21 @@
             this.axBIM3DViewer1.Size = new System.Drawing.Size(671, 411);
             this.axBIM3DViewer1.TabIndex = 0;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(582, 16);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // BaseB3DViewerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.axBIM3DViewer1);
             this.Name = "BaseB3DViewerForm";
             this.Size = new System.Drawing.Size(671, 411);
@@ -58,5 +70,6 @@
         #endregion
 
         private AxBIM3DViewerLib.AxBIM3DViewer axBIM3DViewer1;
+        private System.Windows.Forms.Button button1;
     }
 }

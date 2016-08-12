@@ -6,6 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using ModernUI.Common.WPF.Delegate;
 
 namespace ModernUI.Common.WPF.Controls.WinForm
 {
@@ -20,13 +21,17 @@ namespace ModernUI.Common.WPF.Controls.WinForm
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
-            axBIM3DViewer1.AppendFile(@"‪D:\2016\package\projects\CodeRepository\EBIMWorks 0.5\Project1\测试模型\杭州地铁5号线_通惠路站.b3d");
-            axBIM3DViewer1.LoadFileEnd += AxBIM3DViewer1_LoadFileEnd;
+            DelegateClass.OnBIM3DViewerLoadFileBeginEvent(axBIM3DViewer1);
         }
+        
 
-        private void AxBIM3DViewer1_LoadFileEnd(object sender, AxBIM3DViewerLib._DBIM3DViewerEvents_LoadFileEndEvent e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("aa");
+            OpenFileDialog ofd = new OpenFileDialog();
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                axBIM3DViewer1.OpenFile(ofd.FileName);
+            }
         }
     }
 }
