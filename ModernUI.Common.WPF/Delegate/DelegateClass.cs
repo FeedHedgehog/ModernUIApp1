@@ -14,13 +14,13 @@ namespace ModernUI.Common.WPF.Delegate
         /// 传递3DViewer实例对象
         /// </summary>
         /// <param name="viewer"></param>
-        public delegate void BIM3DViewerLoadFileBegin(object viewer);
+        public delegate void BIM3DViewerLoadFileEnd(object viewer);
 
-        public static event BIM3DViewerLoadFileBegin BIM3DViewerLoadFileBeginEvent;
+        public static event BIM3DViewerLoadFileEnd BIM3DViewerLoadFileEndEvent;
 
-        public static void OnBIM3DViewerLoadFileBeginEvent(object viewer)
+        public static void OnBIM3DViewerLoadFileEndEvent(object viewer)
         {
-            BIM3DViewerLoadFileBeginEvent?.Invoke(viewer);
+            BIM3DViewerLoadFileEndEvent?.Invoke(viewer);
         }
     }
 }

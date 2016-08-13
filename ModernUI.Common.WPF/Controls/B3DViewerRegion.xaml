@@ -3,13 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:ModernUI.Common.WPF.Controls.WinForm"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"             
              xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
-             xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
-             d:DesignHeight="500"
-             d:DesignWidth="800"
-             mc:Ignorable="d">
-    <wfi:WindowsFormsHost>
-        <local:BaseB3DViewerForm Width="500" Height="400"/>
+             xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"           
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300"
+             >
+    <wfi:WindowsFormsHost Opacity="0">
+        <local:BaseB3DViewerForm />
     </wfi:WindowsFormsHost>
+
 </UserControl>

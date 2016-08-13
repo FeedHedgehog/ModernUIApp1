@@ -15,21 +15,21 @@ namespace ModernUI.Common.WPF.Controls.WinForm
 
         public BaseB3DViewerForm()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }
 
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
-            DelegateClass.OnBIM3DViewerLoadFileBeginEvent(axBIM3DViewer1);
+            //DelegateClass.OnBIM3DViewerLoadFileEndEvent(axBIM3DViewer1);
         }
-        
+
 
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
             if (ofd.ShowDialog() == DialogResult.OK)
-            {
+            {                
                 axBIM3DViewer1.OpenFile(ofd.FileName);
             }
         }

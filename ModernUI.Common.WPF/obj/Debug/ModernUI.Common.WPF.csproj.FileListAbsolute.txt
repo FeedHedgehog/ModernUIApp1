@@ -32,4 +32,5 @@ D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\ob
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csproj.GenerateResource.Cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.pdb
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\ModernUI.Common.WPF.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Controls\WinForm\UserControl1.g.cs
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.WPF\obj\Debug\Controls\WinForm\UserControl1.baml

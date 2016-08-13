@@ -19,7 +19,6 @@ E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUI.
 E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUI.Common.WPF.pdb
 E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.csprojResolveAssemblyReference.cache
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\App.baml
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_Content.g.cs
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache

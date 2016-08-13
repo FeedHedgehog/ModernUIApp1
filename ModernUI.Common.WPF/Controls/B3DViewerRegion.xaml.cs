@@ -24,13 +24,14 @@ namespace ModernUI.Common.WPF.Controls
         private AxBIM3DViewer _bimViewer;
         public B3DViewerRegion()
         {
-            DelegateClass.BIM3DViewerLoadFileBeginEvent += DelegateClass_BIM3DViewerLoadFileBeginEvent;
+            DelegateClass.BIM3DViewerLoadFileEndEvent += DelegateClass_BIM3DViewerLoadFileEndEvent;
             InitializeComponent();
         }
 
-        private void DelegateClass_BIM3DViewerLoadFileBeginEvent(object viewer)
+        private void DelegateClass_BIM3DViewerLoadFileEndEvent(object viewer)
         {
             _bimViewer = viewer as AxBIM3DViewer;
         }
+
     }
 }
