@@ -17,7 +17,7 @@ namespace ModernUI.Common.WPF.Delegate
         public delegate void BIM3DViewerLoadFileEnd(object viewer);
 
         public static event BIM3DViewerLoadFileEnd BIM3DViewerLoadFileEndEvent;
-
+        
         public static void OnBIM3DViewerLoadFileEndEvent(object viewer)
         {
             BIM3DViewerLoadFileEndEvent?.Invoke(viewer);

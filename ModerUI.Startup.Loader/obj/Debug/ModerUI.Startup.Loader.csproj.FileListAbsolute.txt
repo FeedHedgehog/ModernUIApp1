@@ -1,0 +1,13 @@
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\bin\Debug\ModerUI.Startup.Loader.exe
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\bin\Debug\ModerUI.Startup.Loader.pdb
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.csprojResolveAssemblyReference.cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\Shell.g.cs
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\App.g.cs
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader_MarkupCompile.cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader_MarkupCompile.lref
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\Shell.baml
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.g.resources
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.Properties.Resources.resources
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.csproj.GenerateResource.Cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.exe
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModerUI.Startup.Loader\obj\Debug\ModerUI.Startup.Loader.pdb

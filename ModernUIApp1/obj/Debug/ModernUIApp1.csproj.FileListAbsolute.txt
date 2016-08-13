@@ -20,10 +20,6 @@ E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUI.
 E:\2016\BIM\Code\test\ModernUIDemo\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\App.g.cs
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_Content.g.cs
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1_MarkupCompile.cache
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.exe
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUIApp1.pdb
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\FirstFloor.ModernUI.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\Microsoft.Windows.Shell.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUI.Common.Infrastructure.dll
@@ -38,6 +34,10 @@ D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\ModernUI.Common.WPF.pdb
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.baml
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\MainWindow.g.cs
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.g.resources
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.exe
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\ModernUIApp1.pdb
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\EBIMWorkPlayerPro.exe
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\bin\Debug\EBIMWorkPlayerPro.pdb
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\EBIMWorkPlayerPro_Content.g.cs
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\EBIMWorkPlayerPro_MarkupCompile.cache
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\EBIMWorkPlayerPro.g.resources
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\EBIMWorkPlayerPro.exe
+D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUIApp1\obj\Debug\EBIMWorkPlayerPro.pdb

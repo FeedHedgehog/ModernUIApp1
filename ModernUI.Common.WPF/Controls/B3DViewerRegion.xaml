@@ -9,7 +9,7 @@
              mc:Ignorable="d"
              d:DesignHeight="300" d:DesignWidth="300"
              >
-    <wfi:WindowsFormsHost Opacity="0">
+    <wfi:WindowsFormsHost>
         <local:BaseB3DViewerForm />
     </wfi:WindowsFormsHost>
 
