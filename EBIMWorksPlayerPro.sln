@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstFloor.ModernUI", "Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModerUI.Startup.Loader", "ModerUI.Startup.Loader\ModerUI.Startup.Loader.csproj", "{B7832474-3897-4515-8836-4E1CE6632495}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "插件", "插件", "{7C931AB1-FBA7-43A1-BE39-045609FC6B7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -30,6 +30,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
@@ -52,14 +67,15 @@
     <Compile Include="Controls\B3DViewerRegion.xaml.cs">
       <DependentUpon>B3DViewerRegion.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Controls\B3DViewerTool.xaml.cs">
+      <DependentUpon>B3DViewerTool.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MessageDialog.cs" />
     <Compile Include="Controls\WinForm\BaseB3DViewerForm.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Controls\WinForm\BaseB3DViewerForm.Designer.cs">
       <DependentUpon>BaseB3DViewerForm.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Controls\WinForm\UserControl1.xaml.cs">
-      <DependentUpon>UserControl1.xaml</DependentUpon>
     </Compile>
     <Compile Include="Delegate\DelegateClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -88,7 +104,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Controls\WinForm\UserControl1.xaml">
+    <Page Include="Controls\B3DViewerTool.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -97,6 +113,9 @@
     <EmbeddedResource Include="Controls\WinForm\BaseB3DViewerForm.resx">
       <DependentUpon>BaseB3DViewerForm.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

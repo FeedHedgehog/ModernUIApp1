@@ -34,7 +34,30 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Logging">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.EnterpriseLibrary.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Prism.MefExtensions">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.Prism.MefExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\ModernUI.Lib\Frame\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
@@ -53,6 +76,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ModerUIBootstrapper.cs" />
+    <Compile Include="Startup\SingleInstanceApplicationWrapper.cs" />
+    <Compile Include="Startup\StartupBase.cs" />
     <Page Include="Shell.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -89,6 +115,20 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ModernUI.Common.Infrastructure\ModernUI.Common.Infrastructure.csproj">
+      <Project>{354297ae-2db5-42b0-8556-9cb1e833e46d}</Project>
+      <Name>ModernUI.Common.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModernUI.Common.Utility\ModernUI.Common.Utility.csproj">
+      <Project>{B9272AEE-B538-465F-BB53-EF14EF14683F}</Project>
+      <Name>ModernUI.Common.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModernUI.Common.WPF\ModernUI.Common.WPF.csproj">
+      <Project>{7daebd2d-a35c-4edf-8e0d-caa15463243a}</Project>
+      <Name>ModernUI.Common.WPF</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

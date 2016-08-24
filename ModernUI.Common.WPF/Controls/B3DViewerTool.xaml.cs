@@ -12,14 +12,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ModernUI.Common.WPF.Controls.WinForm
+namespace ModernUI.Common.WPF.Controls
 {
     /// <summary>
-    /// UserControl1.xaml 的交互逻辑
+    /// B3DViewerTool.xaml 的交互逻辑
     /// </summary>
-    public partial class UserControl1 : UserControl
+    public partial class B3DViewerTool : UserControl
     {
-        public UserControl1()
+        public B3DViewerTool()
         {
             InitializeComponent();
         }

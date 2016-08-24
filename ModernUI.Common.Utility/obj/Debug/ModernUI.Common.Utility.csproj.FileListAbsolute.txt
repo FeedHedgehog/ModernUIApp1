@@ -6,7 +6,6 @@ D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utilit
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\ModernUI.Common.Utility.pdb
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\obj\Debug\ModernUI.Common.Utility.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\obj\Debug\ModernUI.Common.Utility.pdb
-D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\obj\Debug\ModernUI.Common.Utility.csprojResolveAssemblyReference.cache
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\ICSharpCode.SharpZipLib.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\Microsoft.Practices.Prism.dll
 D:\2016\package\demos\demo\ModerUIDemoForB3D\ModernUIApp1\ModernUI.Common.Utility\bin\Debug\Microsoft.Practices.ServiceLocation.dll
